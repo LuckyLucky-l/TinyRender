@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\ImageStudent\TinyRender\Bresenham’s Line Drawing Algorithm\main.cpp(32,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\ImageStudent\TinyRender\Bresenham’s Line Drawing Algorithm\main.cpp(37,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\ImageStudent\TinyRender\Bresenham’s Line Drawing Algorithm\main.cpp(41,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\ImageStudent\TinyRender\Bresenham’s Line Drawing Algorithm\main.cpp(100,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\ImageStudent\TinyRender\Bresenham’s Line Drawing Algorithm\main.cpp(101,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\ImageStudent\TinyRender\Bresenham’s Line Drawing Algorithm\main.cpp(102,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\ImageStudent\TinyRender\Bresenham’s Line Drawing Algorithm\main.cpp(103,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  Bresenham’s Line Drawing Algorithm.vcxproj -> D:\ImageStudent\TinyRender\Bresenham’s Line Drawing Algorithm\x64\Debug\Bresenham’s Line Drawing Algorithm.exe
