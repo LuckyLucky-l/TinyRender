@@ -1,9 +1,0 @@
-﻿  main.cpp
-D:\ImageStudent\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\main.cpp(32,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
-D:\ImageStudent\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\main.cpp(37,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\ImageStudent\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\main.cpp(41,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-D:\ImageStudent\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\main.cpp(102,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\ImageStudent\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\main.cpp(103,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\ImageStudent\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\main.cpp(104,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-D:\ImageStudent\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\main.cpp(105,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-  Image.vcxproj -> D:\ImageStudent\Image\Debug\Image.exe
