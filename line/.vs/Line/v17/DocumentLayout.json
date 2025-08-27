@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ImageStudent\\line\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF2AC34-C0C4-4327-A56B-3D796DE657E8}|Image.vcxproj|D:\\ImageStudent\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF2AC34-C0C4-4327-A56B-3D796DE657E8}|Image.vcxproj|D:\\ImageStudent\\line\\model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FF2AC34-C0C4-4327-A56B-3D796DE657E8}|Image.vcxproj|solutionrelative:model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF2AC34-C0C4-4327-A56B-3D796DE657E8}|Image.vcxproj|D:\\ImageStudent\\line\\model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FF2AC34-C0C4-4327-A56B-3D796DE657E8}|Image.vcxproj|solutionrelative:model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF2AC34-C0C4-4327-A56B-3D796DE657E8}|Image.vcxproj|D:\\ImageStudent\\line\\geometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FF2AC34-C0C4-4327-A56B-3D796DE657E8}|Image.vcxproj|solutionrelative:geometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF2AC34-C0C4-4327-A56B-3D796DE657E8}|Image.vcxproj|D:\\ImageStudent\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF2AC34-C0C4-4327-A56B-3D796DE657E8}|Image.vcxproj|D:\\ImageStudent\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "model.h",
+              "DocumentMoniker": "D:\\ImageStudent\\line\\model.h",
+              "RelativeDocumentMoniker": "model.h",
+              "ToolTip": "D:\\ImageStudent\\line\\model.h",
+              "RelativeToolTip": "model.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-25T07:20:12.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "model.cpp",
+              "DocumentMoniker": "D:\\ImageStudent\\line\\model.cpp",
+              "RelativeDocumentMoniker": "model.cpp",
+              "ToolTip": "D:\\ImageStudent\\line\\model.cpp",
+              "RelativeToolTip": "model.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-25T04:25:11.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "geometry.h",
+              "DocumentMoniker": "D:\\ImageStudent\\line\\geometry.h",
+              "RelativeDocumentMoniker": "geometry.h",
+              "ToolTip": "D:\\ImageStudent\\line\\geometry.h",
+              "RelativeToolTip": "geometry.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-25T04:24:44.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tgaimage.cpp",
+              "DocumentMoniker": "D:\\ImageStudent\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.cpp",
+              "RelativeDocumentMoniker": "..\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.cpp",
+              "ToolTip": "D:\\ImageStudent\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.cpp",
+              "RelativeToolTip": "..\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.cpp",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAqwGwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T08:07:26.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tgaimage.h",
+              "DocumentMoniker": "D:\\ImageStudent\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.h",
+              "RelativeDocumentMoniker": "..\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.h",
+              "ToolTip": "D:\\ImageStudent\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.h",
+              "RelativeToolTip": "..\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tgaimage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T08:04:46.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\ImageStudent\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\main.cpp",
+              "RelativeDocumentMoniker": "..\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\main.cpp",
+              "ToolTip": "D:\\ImageStudent\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\main.cpp",
+              "RelativeToolTip": "..\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\tinyrenderer-909fe20934ba5334144d2c748805690a1fa4c89f\\main.cpp",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T04:13:28.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
